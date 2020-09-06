@@ -5,31 +5,31 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
 
-        "appid": "pub-8074230319419198",
-        "admobappid": "ca-app-pub-8074230319419198~3870167875",
-        "interid": "ca-app-pub-8074230319419198/4554857297",
-        "nativeid": "ca-app-pub-8074230319419198/1928693951",
+        "appid": "pub-5833412546865928",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/6300978111",
+        "nativeid": "ca-app-pub-3940256099942544/1033173712",
         "bannerid":"",
         "rewardid":"",
 
-        "pengaturan_iklan":"3",
+        "pengaturan_iklan":"4",
         "interval": 1,
 
         "startappid":"204041487",
 
         "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
-        "link_update": "https://www.google.com/",
+        "link_update": "https://bit.ly/2F2kR4k/",
         "version_app":1,
         
         "fan_inter":"600481717337031_600490384002831",
         "fan_banner_native":"600481717337031_600489227336280",
         "fan_banner":"600481717337031_600489227336280",
 
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+        "hpk_admob1":"insurance",
+        "hpk_admob2":"health",
+        "hpk_admob3":"fitness",
+        "hpk_admob4":"loan",
+        "hpk_admob5":"housedesign"
   
 
         }
@@ -83,107 +83,177 @@
   ],
 
   "Data":
-[
-  {
-    "id":1,
-    "id_pdf":"001",
-    "nama_cat":"SD",
-    "nama_penulis":"Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf",
-    "judul":"SD I : Diriku",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_1sd/siswa/2017/Kelas_01_SD_Tematik_1_Diriku_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Tematik_1_Diriku_Siswa_2017.pdf",
-    "deskripsi":"Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
-  },
-  {
-    "id":2,
-    "id_pdf":"002",
-    "nama_cat":"SD",
-    "nama_penulis":"Faisal",
-    "judul":"SD II : Hidup Bersih dan Sehat",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_2sd/siswa/2017/Kelas_02_SD_Tematik_4_Hidup_Bersih_dan_Sehat_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_2sd/siswa/Kelas_02_SD_Tematik_4_Hidup_Bersih_dan_Sehat_Siswa_2017.pdf",
-    "deskripsi":"Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Mengamati, Ayo Bermain Peran, Ayo Berlatih, Ayo Bercerita, Ayo Berkreasi, Ayo Menulis, Ayo Membaca, Ayo Bernyanyi, Ayo Beraktivitas, Ayo Berdiskusi, Ayo Menanya, dan Kegiatan bersama Orang Tua"
-  },
-  {
-    "id":3,
-    "id_pdf":"003",
-    "nama_cat":"SD",
-    "nama_penulis":"Sonya Sinyanyuri, Zaira Dartavia, ",
-    "judul":"SD III : Bumi dan Alam Semesta",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_3sd/siswa/cover/Kelas_03_SD_Tematik_8_Bumi_dan_Alam_Semesta_Siswa-thumb.jpg",
-    "link":"http://bse.mahoni.com/data/2013/kelas_3sd/siswa/Kelas_03_SD_Tematik_8_Bumi_dan_Alam_Semesta_Siswa.pdf",
-    "deskripsi":"Buku Kelas III tema 8 terdiri dari empat tema. Setiap tema terdiri dari tiga subtema dan satu kegiatan berbasis projek. Tiap subtema dan kegiatan berbasis projek diuraikan ke dalam enam pembelajaran. Satu pembelajaran dialokasikan untuk satu hari. Penjelasan lebih rinci tentang aktivitas pembelajaran dituangkan pada Buku Panduan Guru."
-  }
+  [
+    {
+      "id":1,
+      "id_pdf":"001",
+      "nama_cat":"1SD",
+      "nama_penulis":"Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf",
+      "judul":"Tema I : Diriku",
+      "image":"https://1.bp.blogspot.com/-LyY6j8CgzZ4/XzO5ztdgUXI/AAAAAAAAAW0/0xbLTHlwxYMhtj4zFkbUw-MaBmsdup7CwCLcBGAsYHQ/s430/tema-1-kelas-1.jpg",
+      "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Tematik_1_Diriku_Siswa_2017.pdf",
+      "deskripsi":"Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id":2,
+      "id_pdf":"002",
+      "nama_cat":"1SD",
+      "nama_penulis":"Novilia Adellina, Yun Kusumawati, dan Lubna Assagaf",
+      "judul":"Tema II : Kegemaranku",
+      "image":"https://1.bp.blogspot.com/-23BX12xX7Gg/XzO6uDD57UI/AAAAAAAAAXA/dEr3zxjwWmomF6QDop-givZXhKB9r96XwCLcBGAsYHQ/s430/tema-2-kelas-1.jpg",
+      "link":"https://ia601502.us.archive.org/10/items/sd01tema2/sd01tema2.pdf",
+      "deskripsi":"Lise Chamisijatin, H. Sufyani Prabawanto, Nur Wahyu Rochmadi, Felicia N. Utorodewo, Tri Hartiti Retnowati, Bambang Prihadi, Widia Pekerti, Rita Milyartini, Elindra Yetti, Suharji, Sugiarto, Rosyid Al-Atok, H. Andoyo Sastromiharjo, Yetti Mulyati, Henny Setyawati, Mulyana, dan Losina Purnastuti."
+    },
+    {
+      "id":3,
+      "id_pdf":"003",
+      "nama_cat":"1SD",
+      "nama_penulis":"Nurhasanah dan Lubna Assagaf.",
+      "judul":"Tema III : Kegiatanku",
+      "image":"https://1.bp.blogspot.com/-LEb23Zms9lQ/XzO7bQcDIVI/AAAAAAAAAXM/PIsZEv1QRfA2u9xtk1VAT9Fe8kU1lz5RACLcBGAsYHQ/s0/Untitled-1.jpg",
+      "link":"https://ia601500.us.archive.org/14/items/sd01tema3/sd01tema3.pdf",
+      "deskripsi":"Buku Tema 3 Untuk kelas 1SD"
+    }
   ,
-  {
-    "id":4,
-    "id_pdf":"004",
-    "nama_cat":"SD",
-    "nama_penulis":"Angi St. Anggari, Afriki, Dara Retno Wulan",
-    "judul":"SD IV : Selalu Berhemat Energi",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_4sd/siswa/2017/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_4sd/siswa/Kelas_04_SD_Tematik_2_Selalu_Berhemat_Energi_Siswa_2017.pdf",
-    "deskripsi":"Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Mengamati, Ayo Bermain Peran, Ayo Berlatih, Ayo Bercerita, Ayo Berkreasi, Ayo Menulis, Ayo Membaca, Ayo Bernyanyi, Ayo Beraktivitas, Ayo Berdiskusi, Ayo Menanya, dan Kegiatan bersama Orang Tua"
-  },
-  {
-    "id":5,
-    "id_pdf":"005",
-    "nama_cat":"SD",
-    "nama_penulis":"Maryanto, Fransiska, Heny Kusumawati",
-    "judul":"SD V : Peristiwa Dalam kehidupan Siswa",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_5sd/siswa/2017/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_5sd/siswa/Kelas_05_SD_Tematik_7_Peristiawa_dalam_Kehidupan_Siswa_2017.pdf",
-    "deskripsi":"Halaman ini berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran."
-  }
+    {
+      "id":4,
+      "id_pdf":"004",
+      "nama_cat":"1SD",
+      "nama_penulis":"Setiyo Iswoyo, Tandang Oktora, dan Lubna Assagaf",
+      "judul":"Tema IV : Keluargaku",
+      "image":"https://1.bp.blogspot.com/-pL4Pe3vc1aI/XzO9SF_3vmI/AAAAAAAAAXc/4mQZ4tOCtsoYPMlKBmwmdtK3c4x6SroFQCLcBGAsYHQ/s0/Untitled-1.jpg",
+      "link":"https://bsd.pendidikan.id/data/2013/kelas_1sd/siswa/Kelas_01_SD_Tematik_4_Keluargaku_Siswa_2017.pdf",
+      "deskripsi":"Buku Tema 4 Kelas 1SD"
+    },
+    {
+      "id":5,
+      "id_pdf":"005",
+      "nama_cat":"1SD",
+      "nama_penulis":"Novilia Adelina, Yusfina Hendrifiana, dan Lubna Assagaf",
+      "judul":"Tema V : Pengalamanku",
+      "image":"https://1.bp.blogspot.com/-ltvCNKDYFs8/XzO9vbhcLDI/AAAAAAAAAXk/HDlLHDpVOS8Cli-CP4bJY065ELq65tngwCLcBGAsYHQ/s0/TEMA-5-KELAS-1.jpg",
+      "link":"https://ia601405.us.archive.org/32/items/sd01tema5/sd01tema5.pdf",
+      "deskripsi":"Tema 5 Kelas 1SD."
+    }
   ,
-  {
-    "id":6,
-    "id_pdf":"006",
-    "nama_cat":"SD",
-    "nama_penulis":"Afriki, Al Farani, Angie Siti Anggari ",
-    "judul":"SD VI : Kepemimpinan Siswa",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_6sd/siswa/cover/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa-thumb.jpg",
-    "link":"http://bse.mahoni.com/data/2013/kelas_6sd/siswa/Kelas_06_SD_Tematik_7_Kepemimpinan_Siswa.pdf",
-    "deskripsi":"Pada beberapa bagian dalam buku siswa ini diberikan ruang bagi siswa untuk menuliskan laporan, kesimpulan, penyelesaian soal, atau tugas lainnya. Namun, sebaiknya dalam menuliskan berbagai tugas tersebut siswa tidak terpancang pada ruang yang diberikan. Apabila dirasa kurang, siswa dapat menuliskannya pada buku tugas."
-  } ,
-  {
-    "id":7,
-    "id_pdf":"007",
-    "nama_cat":"SMP",
-    "nama_penulis":"Wahono Widodo, Fida Rachmadiarti ",
-    "judul":"SMP VII : Ilmu Pengetahuan Alam",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_7smp/siswa/2017/Kelas_07_SMP_Ilmu_Pengetahuan_Alam_IPA_S2_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_7smp/siswa/Kelas_07_SMP_Ilmu_Pengetahuan_Alam_IPA_S2_Siswa_2017.pdf",
-    "deskripsi":"Sesuai dengan konsep Kurikulum 2013, buku ini disusun mengacu pada pembelajaran IPA secara terpadu dan utuh, sehingga setiap pengetahuan yang diajarkan, pembelajarannya harus dilanjutkan sampai membuat siswa terampil dalam menyajikan pengetahuan yang dikuasainya, dan bersikap sebagai makhluk yang mensyukuri anugerah alam semesta yang dikaruniakan kepadanya melalui pemanfaatan yang bertanggung jawab. "
-  },
-  {
-    "id":8,
-    "id_pdf":"008",
-    "nama_cat":"SMP",
-    "nama_penulis":"Siti Wachidah, Asep Gunawan",
-    "judul":"SMP VIII : Bahasa Inggris",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_8smp/siswa/2017/Kelas_08_SMP_Bahasa_Inggris_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_8smp/siswa/Kelas_08_SMP_Bahasa_Inggris_Siswa_2017.pdf",
-    "deskripsi":"Sebagai bagian dari Kurikulum 2013 yang menekankan pentingnya keseimbangan kompetensi sikap, pengetahuan, dan keterampilan, kemampuan berbahasa Inggris dibentuk melalui pembelajaran berkelanjutan. Pembelajaran model ini dimulai dengan peningkatan kompetensi pengetahuan tentang jenis, kaidah, dan konteks suatu teks, dilanjutkan dengan kompetensi keterampilan menyajikan suatu teks tulis dan lisan, baik terencana maupun spontan dengan pelafalan dan intonasi yang tepat. Pembelajaran berkelanjutan ini bermuara pada pembentukan sikap kesantunan berbahasa. "
-  },
-  {
-    "id":9,
-    "id_pdf":"009",
-    "nama_cat":"SMP",
-    "nama_penulis":"Siti Wachidah, Asep Gunawan",
-    "judul":"SMP IX : Matematika",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_9smp/siswa/cover/Kelas_09_SMP_Matematika_Siswa_2-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_9smp/siswa/Kelas_09_SMP_Matematika_Siswa_1.pdf",
-    "deskripsi":"Buku Siswa Matematika Kelas IX SMP/MTs Kurikulum 2013 ini ditulis dengan berdasarkan pada materi dan kompetensi yang disesuaikan dengan standar internasional tersebut. Terkait materi misalnya, sejak kelas VII telah diajarkan antara lain tentang bilangan, himpunan, aljabar dan penerapannya, perbandingan, geometri, dan penyajian data. Keseimbangan antara matematika angka, matematika pola, dan bangun selalu dijaga. Kompetensi pengetahuan bukan hanya sampai memahami secara konseptual tetapi sampai ke penerapan melalui pengetahuan prosedural dalam pemecahan masalah matematika. Kompetensi keterampilan berpikir juga diasah untuk dapat memecahkan masalah yang membutuhkan pemikiran order tinggi seperti menalar pemecahan masalah melalui permodelan, pembuktian, dan perkiraan/pendekatan."
-  },
-  {
-    "id":10,
-    "id_pdf":"010",
-    "nama_cat":"SMA",
-    "nama_penulis":"Zackaria Soetedja, Dewi Suryati",
-    "judul":"SMA X : Seni Budya",
-    "image":"https://bukusekolahdigital.com/data/2013/kelas_10sma/siswa/2017/Kelas_10_SMA_Seni_Budaya_S2_Siswa_2017-thumb.jpg",
-    "link":"http://bsd.pendidikan.id/data/2013/kelas_10sma/siswa/Kelas_10_SMA_Seni_Budaya_S2_Siswa_2017.pdf",
-    "deskripsi":"Materi pembelajaran seni budaya dalam buku ini merupakan revisi dari buku seni budaya sebelumnya berisi pengetahuan, materi dan cara belajar seni di sekolah dengan guru sebagai fasilitator yang menyediakan peluang bagi peserta didik untuk menjadi pribadi yang utuh melalui pengalaman seni berdasarkan sesuatu yang dekat dengan kehidupan dan dunia kalian. "  }
-]
+    {
+      "id":6,
+      "id_pdf":"006",
+      "nama_cat":"1SD",
+      "nama_penulis":"Achmad Hasim dan Otong Jaelani. ",
+      "judul":"Pendidikan Agama Islam : Dan Budi Pekerti",
+      "image":"https://1.bp.blogspot.com/--jvNF5UA2g8/XzO-fcjdsRI/AAAAAAAAAXw/f2iq2u6q_jUMFJlOda2eju3tIsybJGZcwCLcBGAsYHQ/s0/agama.jpg",
+      "link":"https://ia601408.us.archive.org/33/items/sd01islam/sd01islam.pdf",
+      "deskripsi":"Pedidikan Agama islam dan budi pekerti kelas 1SD."
+    } ,
+    {
+      "id":7,
+      "id_pdf":"007",
+      "nama_cat":"2SD",
+      "nama_penulis":"Irene Maria Juli Astuti ",
+      "judul":"Tema I : Hidup Rukun",
+      "image":"https://1.bp.blogspot.com/-7wkJ9gHP0lQ/Xz0FnDWYH1I/AAAAAAAAAcc/_XLn_GxN6KwkiEUVfVjJT2dbgV_a4HuIgCLcBGAsYHQ/s0/tema-2.jpg",
+      "link":"https://ia601406.us.archive.org/24/items/kelas-ii-tema-1-bs-ayomadrasah/Kelas%20II%20Tema%201%20BS%20ayomadrasah.pdf",
+      "deskripsi":"Buku Tema 1 Kelas 2SD Hidup Rukun. "
+    },
+    {
+      "id":8,
+      "id_pdf":"008",
+      "nama_cat":"2SD",
+      "nama_penulis":"Taufina.",
+      "judul":"Tema II : Bermain di Lingkunganku",
+      "image":"https://1.bp.blogspot.com/-5b00j_0KAC0/Xz35Y1YbSzI/AAAAAAAAAcw/ECCuQEDOo4ILHauPBaaX6213Yc8Rz6_uQCLcBGAsYHQ/s0/tema-2.jpg",
+      "link":"https://ia601508.us.archive.org/14/items/sd2tema2/sd2tema2.pdf",
+      "deskripsi":"Penelaah Widia Pekerti, Rita Milyartini, Elindra Yetti, Suharji, Wahyuningsih, Delviati, Tijan,  Yetti Mulyati, Advendi Kristyandaru. "
+    },
+    {
+      "id":9,
+      "id_pdf":"009",
+      "nama_cat":"2SD",
+      "nama_penulis":"Purnomosidi.",
+      "judul":"Tema III : Tugasku Sehari-Hari",
+      "image":"https://1.bp.blogspot.com/-crUjCXg0THQ/Xz36K97TuCI/AAAAAAAAAc4/7IiujIEmsVYlf6-dXVf9HsGf1VxIwF1YQCLcBGAsYHQ/s0/tema-3.jpg",
+      "link":"https://bsd.pendidikan.id/data/2013/kelas_2sd/siswa/Kelas_02_SD_Tematik_3_Tugasku_Sehari-hari_Siswa_2017.pdf",
+      "deskripsi":"Penelaah : Advendi Kristyandaru, Elindra Yetti, Felicia N. Utorodewo, Prayoga Bestari, Rahmat, Rita Milyartini, Suharji, Suwarsono, Widia Pekerti. Pe-review : Siti Ade Yati."
+    },
+    {
+      "id":10,
+      "id_pdf":"010",
+      "nama_cat":"2SD",
+      "nama_penulis":"Faisal",
+      "judul":"Tema IV : Hidup Bersih Dan Sehat",
+      "image":"https://i.ibb.co/M7FWXH2/tema-4-1.jpg",
+      "link":"https://bsd.pendidikan.id/data/2013/kelas_2sd/siswa/Kelas_02_SD_Tematik_4_Hidup_Bersih_dan_Sehat_Siswa_2017.pdf",
+      "deskripsi":"Penelaah : Advendi Kristyandaru, Bambang Prihadi, Ekram Pawiroputra, Elindra Yetti, Felicia N. "
+    },
+    {
+      "id":11,
+      "id_pdf":"011",
+      "nama_cat":"2SD",
+      "nama_penulis":"Taufina",
+      "judul":"Tema V : PENGALAMANKU",
+      "image":"https://i.ibb.co/QXhjT5F/tema5.jpg",
+      "link":"https://bsd.pendidikan.id/data/2013/kelas_2sd/siswa/Kelas_02_SD_Tematik_5_Pengalamanku_Siswa_2017.pdf",
+      "deskripsi":"Penelaah :  Advendi, Delviati, Fuji Astuti, Suwarta Zebua, Tijan, Totok Suhardijanto , Trie Hartiti, Wahyuningsih. "
+    },
+    {
+      "id":12,
+      "id_pdf":"012",
+      "nama_cat":"2SD",
+      "nama_penulis":"AchmadHasimdanM.KholidFathoni",
+      "judul":"Pendidikan Agama Islam : Dan Budi Pekerti",
+      "image":"https://i.ibb.co/pWHJtHY/agama.jpg",
+      "link":"https://ia601409.us.archive.org/11/items/sd02islam/sd02islam.pdf ",
+      "deskripsi":"Pendidikan Agama Islam dan Budi Pekerti kelas 2sd. "
+    } ,
+    {
+      "id":13,
+      "id_pdf":"013",
+      "nama_cat":"3SD",
+      "nama_penulis":"Kontributor Naskah : Sonya Sinyanyuri dan Lubna Assagaf.",
+      "judul":"Tema I : Pertumbuhan dan perkembangan mahluk hidup.",
+      "image":"https://i.ibb.co/8Ksqw9g/tema1.jpg",
+      "link":"https://ia601402.us.archive.org/23/items/sd03tema1/sd03tema1.pdf",
+      "deskripsi":"Buku Tema 1 Kelas 3SD Perkembangbiakan hewan dan tumbuhan. "
+    },
+    {
+      "id":14,
+      "id_pdf":"014",
+      "nama_cat":"3SD",
+      "nama_penulis":"Kontributor Naskah  :  Yanti Kurnianingsih, Lubna Assagaf, Iba Muhibba, dan Nurhasanah..",
+      "judul":"Tema II : Perkembangan Teknologi",
+      "image":"https://1.bp.blogspot.com/-2E6VLpaGnEw/Xz4yJ5OeVGI/AAAAAAAAAdQ/IJqMXBL37Z4nY7kLtdrl1pN-jeSLJ9eIQCLcBGAsYHQ/s0/tema-3.jpg",
+      "link":"https://ia601500.us.archive.org/21/items/sd03tema2/sd03tema2.pdf",
+      "deskripsi":"Buku Tema 2 Kelas 3SD "
+    },
+    {
+      "id":15,
+      "id_pdf":"015",
+      "nama_cat":"3SD",
+      "nama_penulis":"Kontributor Naskah:Sari Kusuma Dewi, Theresa Dwi Utami Aziz, Agustina Eko Susanti, Lubna Assagaf, Iba Muhibba, dan Nurhasanah.",
+      "judul":"Tema III : Perubahan di Alam",
+      "image":"https://1.bp.blogspot.com/-Oe3DTPwsvTQ/Xz4zDYTD_II/AAAAAAAAAdc/kMI2GKvew8UuoEx-O4fxWJ-h0Nd5kyV_ACLcBGAsYHQ/s0/tema3.jpg",
+      "link":"https://ia601501.us.archive.org/1/items/sd03tema3/sd03tema3.pdf",
+      "deskripsi":"Buku Tema 3 Kelas 3Sekolah Dasar."
+    },
+    {
+      "id":16,
+      "id_pdf":"016",
+      "nama_cat":"3SD",
+      "nama_penulis":"Kontributor Naskah  :  Iba Muhibba, Sonya Sinyanyuri, Lubna Assagaf, dan Nurhasanah.",
+      "judul":"Tema IV : Peduli Lingkungan Sosial",
+      "image":"https://1.bp.blogspot.com/-vMbxMhGBugk/Xz40Mtz9qpI/AAAAAAAAAdo/SOq4lHO_N7ISa37K9sbjSQ-1NiPET0tDgCLcBGAsYHQ/s0/tema4.jpg",
+      "link":"https://ia601508.us.archive.org/21/items/sd03tema4/sd03tema4.pdf",
+      "deskripsi":"Buku Tema 4 Untuk Kelas 3 Sekolah Dasar "
+    },
+    {
+      "id":17,
+      "id_pdf":"017",
+      "nama_cat":"3SD",
+      "nama_penulis":"Kontributor Naskah  :  Sari Kusuma Dewi, Theresa Dwi Utami Aziz, Agustina Eko Susanti, Lubna Assagaf,  Iba Muhibba, dan Nurhasanah.",
+      "judul":"Tema V : Permainan Tradisional",
+      "image":"https://1.bp.blogspot.com/-pgvowbczTWo/Xz40_cJQobI/AAAAAAAAAdw/DqPI1DL4bv4NwpyFgBhsr45EKfM2NytgACLcBGAsYHQ/s0/tema-5.jpg",
+      "link":"https://ia601502.us.archive.org/33/items/sd03tema5/sd03tema5.pdf",
+      "deskripsi":"Buku Tema 5 Untuk Kelas 3Sekolah Dasar. "
+  ]
 }
